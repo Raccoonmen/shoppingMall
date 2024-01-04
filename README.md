@@ -13,7 +13,7 @@
 ---
 Back-end
 - Java 17
-- Spring Boot 2.3
+- Spring Boot 3.2.3
 - Gradle
 - Spring Data Jpa
 - QueryDSL
