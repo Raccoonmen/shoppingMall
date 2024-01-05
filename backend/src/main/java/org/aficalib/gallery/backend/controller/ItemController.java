@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @RequiredArgsConstructor
-public class itemController {
+public class ItemController {
 
     private final ItemRepository itemRepository;
 
