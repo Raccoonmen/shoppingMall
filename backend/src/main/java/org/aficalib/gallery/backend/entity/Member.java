@@ -1,7 +1,8 @@
 package org.aficalib.gallery.backend.entity;
 
-import jakarta.persistence.*;
 import lombok.Getter;
+
+import javax.persistence.*;
 
 
 @Getter
