@@ -12,11 +12,10 @@
 ### 🧰 사용 기술
 ---
 Back-end
-- Java 17
-- Spring Boot 3.2.3
+- Java 11
+- Spring Boot 2.7.1
 - Gradle
 - Spring Data Jpa
-- QueryDSL
 - H2
 - MySQL 5.7
 - Spring Security
